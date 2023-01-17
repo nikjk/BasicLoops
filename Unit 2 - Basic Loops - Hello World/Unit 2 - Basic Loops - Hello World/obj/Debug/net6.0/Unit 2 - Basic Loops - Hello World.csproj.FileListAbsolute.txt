@@ -1,0 +1,15 @@
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\bin\Debug\net6.0\Unit 2 - Basic Loops - Hello World.exe
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\bin\Debug\net6.0\Unit 2 - Basic Loops - Hello World.deps.json
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\bin\Debug\net6.0\Unit 2 - Basic Loops - Hello World.runtimeconfig.json
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\bin\Debug\net6.0\Unit 2 - Basic Loops - Hello World.dll
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\bin\Debug\net6.0\Unit 2 - Basic Loops - Hello World.pdb
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\obj\Debug\net6.0\Unit 2 - Basic Loops - Hello World.csproj.AssemblyReference.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\obj\Debug\net6.0\Unit 2 - Basic Loops - Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\obj\Debug\net6.0\Unit 2 - Basic Loops - Hello World.AssemblyInfoInputs.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\obj\Debug\net6.0\Unit 2 - Basic Loops - Hello World.AssemblyInfo.cs
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\obj\Debug\net6.0\Unit 2 - Basic Loops - Hello World.csproj.CoreCompileInputs.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\obj\Debug\net6.0\Unit 2 - Basic Loops - Hello World.dll
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\obj\Debug\net6.0\refint\Unit 2 - Basic Loops - Hello World.dll
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\obj\Debug\net6.0\Unit 2 - Basic Loops - Hello World.pdb
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\obj\Debug\net6.0\Unit 2 - Basic Loops - Hello World.genruntimeconfig.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Hello World\Unit 2 - Basic Loops - Hello World\obj\Debug\net6.0\ref\Unit 2 - Basic Loops - Hello World.dll

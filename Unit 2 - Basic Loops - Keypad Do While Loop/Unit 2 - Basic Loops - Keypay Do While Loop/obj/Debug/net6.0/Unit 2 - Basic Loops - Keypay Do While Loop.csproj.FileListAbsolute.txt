@@ -1,0 +1,15 @@
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\bin\Debug\net6.0\Unit 2 - Basic Loops - Keypay Do While Loop.exe
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\bin\Debug\net6.0\Unit 2 - Basic Loops - Keypay Do While Loop.deps.json
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\bin\Debug\net6.0\Unit 2 - Basic Loops - Keypay Do While Loop.runtimeconfig.json
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\bin\Debug\net6.0\Unit 2 - Basic Loops - Keypay Do While Loop.dll
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\bin\Debug\net6.0\Unit 2 - Basic Loops - Keypay Do While Loop.pdb
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypay Do While Loop.csproj.AssemblyReference.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypay Do While Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypay Do While Loop.AssemblyInfoInputs.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypay Do While Loop.AssemblyInfo.cs
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypay Do While Loop.csproj.CoreCompileInputs.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypay Do While Loop.dll
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\obj\Debug\net6.0\refint\Unit 2 - Basic Loops - Keypay Do While Loop.dll
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypay Do While Loop.pdb
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypay Do While Loop.genruntimeconfig.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypay Do While Loop\Unit 2 - Basic Loops - Keypay Do While Loop\obj\Debug\net6.0\ref\Unit 2 - Basic Loops - Keypay Do While Loop.dll

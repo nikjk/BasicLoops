@@ -1,0 +1,15 @@
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\bin\Debug\net6.0\Unit 2 - Basic Loops - Number Loop.exe
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\bin\Debug\net6.0\Unit 2 - Basic Loops - Number Loop.deps.json
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\bin\Debug\net6.0\Unit 2 - Basic Loops - Number Loop.runtimeconfig.json
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\bin\Debug\net6.0\Unit 2 - Basic Loops - Number Loop.dll
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\bin\Debug\net6.0\Unit 2 - Basic Loops - Number Loop.pdb
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Number Loop.csproj.AssemblyReference.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Number Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Number Loop.AssemblyInfoInputs.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Number Loop.AssemblyInfo.cs
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Number Loop.csproj.CoreCompileInputs.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Number Loop.dll
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\obj\Debug\net6.0\refint\Unit 2 - Basic Loops - Number Loop.dll
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Number Loop.pdb
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\obj\Debug\net6.0\Unit 2 - Basic Loops - Number Loop.genruntimeconfig.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Number Loop\Unit 2 - Basic Loops - Number Loop\obj\Debug\net6.0\ref\Unit 2 - Basic Loops - Number Loop.dll

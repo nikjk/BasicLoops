@@ -1,0 +1,15 @@
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\bin\Debug\net6.0\Unit 2 - Basic Loops - Keypad While Loop Limited.exe
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\bin\Debug\net6.0\Unit 2 - Basic Loops - Keypad While Loop Limited.deps.json
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\bin\Debug\net6.0\Unit 2 - Basic Loops - Keypad While Loop Limited.runtimeconfig.json
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\bin\Debug\net6.0\Unit 2 - Basic Loops - Keypad While Loop Limited.dll
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\bin\Debug\net6.0\Unit 2 - Basic Loops - Keypad While Loop Limited.pdb
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypad While Loop Limited.csproj.AssemblyReference.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypad While Loop Limited.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypad While Loop Limited.AssemblyInfoInputs.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypad While Loop Limited.AssemblyInfo.cs
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypad While Loop Limited.csproj.CoreCompileInputs.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypad While Loop Limited.dll
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\obj\Debug\net6.0\refint\Unit 2 - Basic Loops - Keypad While Loop Limited.dll
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypad While Loop Limited.pdb
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\obj\Debug\net6.0\Unit 2 - Basic Loops - Keypad While Loop Limited.genruntimeconfig.cache
+C:\Users\middl\source\repos\Unit 2 - Basic Loops - Keypad While Loop Limited\Unit 2 - Basic Loops - Keypad While Loop Limited\obj\Debug\net6.0\ref\Unit 2 - Basic Loops - Keypad While Loop Limited.dll
